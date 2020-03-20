@@ -22,7 +22,7 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.0",
+    "@actions/core": "^1.2.3",
     "@actions/exec": "^1.0.0",
     "semver": "^6.1.1"
   },
