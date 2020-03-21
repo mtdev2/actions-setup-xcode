@@ -29,7 +29,7 @@
   "devDependencies": {
     "@actions/io": "^1.0.1",
     "@types/jest": "^24.0.23",
-    "@types/node": "^12.12.12",
+    "@types/node": "^12.12.30",
     "@types/semver": "^6.2.0",
     "husky": "^2.3.0",
     "jest": "^24.9.0",
